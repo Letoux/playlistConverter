@@ -17,9 +17,12 @@
     "blessed-contrib": "^4.11.0",
     "chalk": "^5.4.1",
     "commander": "^13.0.0",
-    "inquirer": "^12.3.0"
+    "express": "^4.21.2",
+    "inquirer": "^12.3.0",
+    "open": "^10.1.0"
   },
   "devDependencies": {
+    "@types/express": "^5.0.0",
     "ts-node": "^10.9.2",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2"
